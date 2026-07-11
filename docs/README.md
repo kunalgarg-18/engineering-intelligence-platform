@@ -15,6 +15,11 @@ This directory is the canonical home for product and engineering documentation. 
 | [glossary.md](glossary.md) | Maintains shared definitions for product and engineering terminology. |
 | [adrs/](adrs/README.md) | Contains Architecture Decision Records and their process. |
 
+## AI Execution Context
+
+Human documentation lives in [docs/](.).
+AI execution context lives in [.ai/](../.ai/).
+
 ## Documentation Standards
 
 - Use clear, durable language suitable for future engineering and product teams.
