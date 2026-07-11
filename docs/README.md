@@ -19,6 +19,7 @@ This directory is the canonical home for product and engineering documentation. 
 
 Human documentation lives in [docs/](.).
 AI execution context lives in [.ai/](../.ai/).
+Discovery notes are not ADRs; exploratory material should remain in [00-discovery/](00-discovery/engineering-journal.md) until it is reviewed as a decision.
 
 ## Documentation Standards
 

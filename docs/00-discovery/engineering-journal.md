@@ -37,3 +37,7 @@ TODO
 ## Action Items
 
 TODO
+
+## Architecture Principles Reinforced
+
+TODO
