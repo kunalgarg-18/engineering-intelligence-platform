@@ -1,5 +1,7 @@
 # Domain Model
 
+> Legacy placeholder. Active domain-model work is being prepared in [02-domain/](02-domain/).
+
 ## Status
 
 `Draft — placeholder`
