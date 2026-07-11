@@ -1,27 +1,65 @@
 # Domain Model
 
-This document is intentionally a placeholder for future domain-model work. It prepares the structure for discussion without asserting the model yet.
-
 ## Purpose
 
-TODO
+The Domain Model captures the current business concepts that define the Engineering Intelligence Platform.
 
-## Entities
+Unlike the Architecture Journal, which records exploration, the Domain Model represents the current agreed understanding of the domain.
 
-TODO
+This document evolves as architectural decisions become stable.
 
-## Value Objects
+---
 
-TODO
+# Aggregates
 
-## Aggregates
+Current Aggregate Roots
 
-TODO
+- Workspace
 
-## Domain Services
+Aggregate boundaries will evolve as additional business concepts become stable.
 
-TODO
+---
 
-## Domain Events
+# Entities
 
-TODO
+Current Entities
+
+- Workspace
+- Knowledge Source
+
+Additional entities will be introduced through iterative domain discovery.
+
+---
+
+# Value Objects
+
+Current candidates
+
+- WorkspaceId
+- WorkspaceName
+
+Additional Value Objects will emerge during implementation.
+
+---
+
+# Domain Services
+
+No Domain Services have been identified yet.
+
+---
+
+# Domain Events
+
+No Domain Events have been finalized yet.
+
+---
+
+# Current Unknowns
+
+The following areas remain under active exploration.
+
+- Platform Core Artifact
+- Aggregate boundaries
+- Domain Events
+- Knowledge synchronization
+- Authorization model
