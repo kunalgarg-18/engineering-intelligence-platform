@@ -8,7 +8,7 @@ This repository is the home for the Engineering Intelligence Platform.
 
 ## Documentation
 
-Project documentation and design-review materials live in [docs/](docs/README.md).
+Project documentation, discovery notes, and design-review materials live in [docs/](docs/README.md).
 
 ## Status
 
